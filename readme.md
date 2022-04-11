@@ -1,4 +1,4 @@
-#Dio: Desafio JS - Jogo da Velha
+# Dio: Desafio JS - Jogo da Velha
 
 Projeto produzido para Bootcampo da DIO.
 
